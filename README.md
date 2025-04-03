@@ -1,6 +1,6 @@
 - 👋 Hi Sree here!
 - 👀 I’m interested in everything that makes me feel alive
-- 🌱 I’m currently learning to code and explore 
+- 🌱 I’m currently learning to code:) 
 
 
 <!---
